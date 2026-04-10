@@ -26,4 +26,3 @@ jobs:
           push: true
           tags: jpdm13/flask_app:latest
 
-Ajout du workflow Docker Hub
